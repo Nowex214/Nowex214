@@ -1,18 +1,56 @@
-<h1 align="center">Hi 👋, I'm Nowex214</h1>
-<h3 align="center">A passionate developer from School 42.</h3>
+<h1 style="text-align: center;">Etudiant à 42 Luxembourg, j'ai passé la piscine grâce à pasqualerossi!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nowex214&label=Profile%20views&color=1ea6a3&style=flat" alt="nowex214" /> </p>
+![cat kissing](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRreGh4bnNodXZucTFyYnk2bnB4Y2dzN2x5eGI4dnI4bjBsZmxxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C95viypu1o24M/giphy.gif)
 
-- 🔭 I’m currently working on [common core 42](https://github.com/Nowex214/commoncore42)
 
-- 🌱 I’m currently learning **C programming.**
 
-- 📫 How to reach me **eliot.henry@gmail.com**
+<h2 style="color: #FFFFFF;">Piscine</h2>
+<table>
+<tr>
+<th align="left"> &nbsp; Piscine projects </th>
+</tr>
+<tr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+<td>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
+| [Shell00](https://github.com/Nowex214/piscine42/tree/main/Shell/Shell00) | [Shell01](https://github.com/Nowex214/piscine42/tree/main/Shell/Shell01) | [C00](https://github.com/Nowex214/piscine42/tree/main/C/C00)  | [C01](https://github.com/Nowex214/piscine42/tree/main/C/C01) | [C02](https://github.com/Nowex214/piscine42/tree/main/C/C02) | [C03](https://github.com/Nowex214/piscine42/tree/main/C/C03) | [C04](https://github.com/Nowex214/piscine42/tree/main/C/C04) | [C05](https://github.com/Nowex214/piscine42/tree/main/C/C05) | [C06](https://github.com/Nowex214/piscine42/tree/main/C/C06) | [C07](https://github.com/Nowex214/piscine42/tree/main/C/C07) | [C08](https://github.com/Nowex214/piscine42/tree/main/C/C08) |
+|--|--|--|--|--|--|--|--|--|--|--|
 
+</td> </tr> </table>
+
+
+<h2 style="color: #FFFFFF;">Piscine reloaded</h2>
+
+<table>
+<tr>
+<th align="left"> &nbsp; Piscine reloaded projects </th>
+</tr>
+<tr>
+
+<td>
+
+| [00](https://github.com/Nowex214/reloaded/tree/main/ex00) | [01](https://github.com/Nowex214/reloaded/tree/main/ex01) | [02](https://github.com/Nowex214/reloaded/tree/main/ex02) | [03](https://github.com/Nowex214/reloaded/tree/main/ex03) | [04](https://github.com/Nowex214/reloaded/tree/main/ex04) | [05](https://github.com/Nowex214/reloaded/tree/main/ex05) | [06](https://github.com/Nowex214/reloaded/tree/main/ex06) | [07](https://github.com/Nowex214/reloaded/tree/main/ex07) | [08](https://github.com/Nowex214/reloaded/tree/main/ex08) |
+|--|--|--|--|--|--|--|--|--|
+| [09](https://github.com/Nowex214/reloaded/tree/main/ex09) | [10](https://github.com/Nowex214/reloaded/tree/main/ex10) | [11](https://github.com/Nowex214/reloaded/tree/main/ex11) | [12](https://github.com/Nowex214/reloaded/tree/main/ex12) | [13](https://github.com/Nowex214/reloaded/tree/main/ex13) | [14](https://github.com/Nowex214/reloaded/tree/main/ex14) | [15](https://github.com/Nowex214/reloaded/tree/main/ex15) | [16](https://github.com/Nowex214/reloaded/tree/main/ex16) | [17](https://github.com/Nowex214/reloaded/tree/main/ex17) |
+| [18](https://github.com/Nowex214/reloaded/tree/main/ex18) | [19](https://github.com/Nowex214/reloaded/tree/main/ex19) | [20](https://github.com/Nowex214/reloaded/tree/main/ex20) | [21](https://github.com/Nowex214/reloaded/tree/main/ex21) | [22](https://github.com/Nowex214/reloaded/tree/main/ex22) | [23](https://github.com/Nowex214/reloaded/tree/main/ex23) | [24](https://github.com/Nowex214/reloaded/tree/main/ex24) | [25](https://github.com/Nowex214/reloaded/tree/main/ex25) | [26](https://github.com/Nowex214/reloaded/tree/main/ex26) |
+| [27](https://github.com/Nowex214/reloaded/tree/main/ex27) |
+
+</td> 
+</tr> 
+</table>
+
+
+
+<h2 style="color: #FFFFFF;">Common core</h2>
+<table>
+<tr>
+<th align="left"> &nbsp; Common core projects </th>
+</tr>
+<tr>
+
+<td>
+
+| [Libft](https://github.com/Nowex214/commoncore42/tree/main/libft) | 
+|--|
+
+</td> </tr> </table>
