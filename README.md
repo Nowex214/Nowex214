@@ -1,10 +1,12 @@
 <h1 style="text-align: center;">Etudiant à 42 Luxembourg, j'ai passé la piscine grâce à pasqualerossi!</h1>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRreGh4bnNodXZucTFyYnk2bnB4Y2dzN2x5eGI4dnI4bjBsZmxxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C95viypu1o24M/giphy.gif" alt="cat kissing" width="1000" height="300">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRreGh4bnNodXZucTFyYnk2bnB4Y2dzN2x5eGI4dnI4bjBsZmxxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C95viypu1o24M/giphy.gif" alt="cat kissing" width="1100" height="300">
 
 
 
 <h2 style="color: #FFFFFF;">Piscine</h2>
+
+
 <table>
 <tr>
 <th align="left"> &nbsp; Piscine projects </th>
@@ -22,6 +24,9 @@
 <h2 style="color: #FFFFFF;">Piscine reloaded</h2>
 
 <table>
+
+<img align="right" width="250" height="250" src="https://tenor.com/fr/view/zzz-gif-6159466722267827595">
+</div>
 <tr>
 <th align="left"> &nbsp; Piscine reloaded projects </th>
 </tr>
@@ -60,3 +65,17 @@
 |--|
 
 </td> </tr> </table>
+
+
+<div align="center">
+
+<h2 style="color: #FFFFFF;">Mes talents(git clone le répertoire de Pascale)!</h2>
+
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,linux,neovim" />
+  </a>
+</p>
+
