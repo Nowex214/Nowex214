@@ -24,7 +24,7 @@
 <h2 style="color: #FFFFFF;">Piscine reloaded</h2>
 
 <table>
-<img  src="https://media.tenor.com/80UKBlUDdb8AAAAi/donot-do-not-do-this.gif" align="right" width="370" height="230" alt="GIF humoristique"/>
+<img  src="https://media.tenor.com/80UKBlUDdb8AAAAi/donot-do-not-do-this.gif" align="right" width="370" height="240" alt="GIF humoristique"/>
 
 </div>
 <tr>
