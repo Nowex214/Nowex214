@@ -24,8 +24,8 @@
 <h2 style="color: #FFFFFF;">Piscine reloaded</h2>
 
 <table>
+<img  src="https://media.tenor.com/80UKBlUDdb8AAAAi/donot-do-not-do-this.gif" align="right" width="370" height="250" alt="GIF humoristique"/>
 
-<img align="right" width="250" height="250" src="https://tenor.com/fr/view/zzz-gif-6159466722267827595">
 </div>
 <tr>
 <th align="left"> &nbsp; Piscine reloaded projects </th>
@@ -79,3 +79,16 @@
   </a>
 </p>
 
+<div align="center">
+
+<h2 style="color: #FFFFFF;">Contactez-moi(sur l'intra lol)!</h2>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=discord,gmail" />
+  </a>
+</p>
+<img  src="https://media1.tenor.com/m/ndMC24Gvy4sAAAAd/telephone-call.gif" width="80" height="80" alt="GIF humoristique"/>
+
+<h3 style="color: #FFFFFF;">Discord: nowexssj3</h3>
+<h3 style="color: #FFFFFF;">Mail: eliot.henry@gmail.com</h3>
