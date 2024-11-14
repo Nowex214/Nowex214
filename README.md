@@ -61,8 +61,8 @@
 
 <td>
 
-| [Libft](https://github.com/Nowex214/commoncore42/tree/main/libft) | 
-|--|
+| [Libft](https://github.com/Nowex214/commoncore42/tree/main/libft) | [GNL](https://github.com/Nowex214/commoncore42/tree/main/getnextline) | [B2BR](https://github.com/Nowex214/commoncore42/tree/main/Born2BeRoot)
+|--|--|--|
 
 </td> </tr> </table>
 
