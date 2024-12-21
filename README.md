@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Etudiant à 42 Luxembourg, j'ai passé la piscine grâce à pasqualerossi!</h1>
+<h1 style="text-align: center;">I am Eliot, a student at 42 Luxembourg!</h1>
 
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWRreGh4bnNodXZucTFyYnk2bnB4Y2dzN2x5eGI4dnI4bjBsZmxxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C95viypu1o24M/giphy.gif" alt="cat kissing" width="1100" height="300">
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI1Ym1sOW03ZjRsOTBoZXVraHd4MTJyZmR3bDVweGdudWE0cm9scCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="dev" width="1100" height="300">
 
 
 
