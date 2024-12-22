@@ -1,94 +1,71 @@
-<h1 style="text-align: center;">I am Eliot, a student at 42 Luxembourg!</h1>
-
-<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTI1Ym1sOW03ZjRsOTBoZXVraHd4MTJyZmR3bDVweGdudWE0cm9scCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" alt="dev" width="1100" height="300">
-
-
-
-<h2 style="color: #FFFFFF;">Piscine</h2>
-
-
-<table>
-<tr>
-<th align="left"> &nbsp; Piscine projects </th>
-</tr>
-<tr>
-
-<td>
-
-| [Shell00](https://github.com/Nowex214/piscine42/tree/main/Shell/Shell00) | [Shell01](https://github.com/Nowex214/piscine42/tree/main/Shell/Shell01) | [C00](https://github.com/Nowex214/piscine42/tree/main/C/C00)  | [C01](https://github.com/Nowex214/piscine42/tree/main/C/C01) | [C02](https://github.com/Nowex214/piscine42/tree/main/C/C02) | [C03](https://github.com/Nowex214/piscine42/tree/main/C/C03) | [C04](https://github.com/Nowex214/piscine42/tree/main/C/C04) | [C05](https://github.com/Nowex214/piscine42/tree/main/C/C05) | [C06](https://github.com/Nowex214/piscine42/tree/main/C/C06) | [C07](https://github.com/Nowex214/piscine42/tree/main/C/C07) | [C08](https://github.com/Nowex214/piscine42/tree/main/C/C08) |
-|--|--|--|--|--|--|--|--|--|--|--|
-
-</td> </tr> </table>
-
-
-<h2 style="color: #FFFFFF;">Piscine reloaded</h2>
-
-<table>
-<img  src="https://media.tenor.com/80UKBlUDdb8AAAAi/donot-do-not-do-this.gif" align="right" width="370" height="250" alt="GIF humoristique"/>
-
+<div>
+    <img src="https://media1.tenor.com/m/kqlEI-zeRL4AAAAd/pixelart.gif" alt="Darksouls" width="1200" height="300">
 </div>
+
+# <h1 align="center">👁️‍🗨️ Hi i'm Eliot, 42 Student !</h1>
+
+<h2 style="text-align: center; margin-top: 30px;">🌊Piscine !</h2>
+
+<div style="text-align: center; margin-top: 20px;">
+<table style="margin: auto; border-spacing: 10px;">
 <tr>
-<th align="left"> &nbsp; Piscine reloaded projects </th>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/Shell/Shell00" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">Shell00</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/Shell/Shell01" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">Shell01</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/C/C00" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">C00</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/C/C01" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">C01</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/C/C02" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">C02</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/C/C03" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">C03</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/C/C04" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">C04</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/C/C05" style="display: inline-block; padding: 10px 15px; background-color:#3f577c; color: white; text-decoration: none; border-radius: 5px;">C05</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/C/C06" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">C06</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/C/C07" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">C07</a></td>
+<td><a href="https://github.com/Nowex214/piscine42/tree/main/C/C08" style="display: inline-block; padding: 10px 15px; background-color: #3f577c; color: white; text-decoration: none; border-radius: 5px;">C08</a></td>
 </tr>
-<tr>
-
-<td>
-
-| [00](https://github.com/Nowex214/reloaded/tree/main/ex00) | [01](https://github.com/Nowex214/reloaded/tree/main/ex01) | [02](https://github.com/Nowex214/reloaded/tree/main/ex02) | [03](https://github.com/Nowex214/reloaded/tree/main/ex03) | [04](https://github.com/Nowex214/reloaded/tree/main/ex04) | [05](https://github.com/Nowex214/reloaded/tree/main/ex05) | [06](https://github.com/Nowex214/reloaded/tree/main/ex06) | [07](https://github.com/Nowex214/reloaded/tree/main/ex07) | [08](https://github.com/Nowex214/reloaded/tree/main/ex08) |
-|--|--|--|--|--|--|--|--|--|
-
-| [09](https://github.com/Nowex214/reloaded/tree/main/ex09) | [10](https://github.com/Nowex214/reloaded/tree/main/ex10) | [11](https://github.com/Nowex214/reloaded/tree/main/ex11) | [12](https://github.com/Nowex214/reloaded/tree/main/ex12) | [13](https://github.com/Nowex214/reloaded/tree/main/ex13) | [14](https://github.com/Nowex214/reloaded/tree/main/ex14) | [15](https://github.com/Nowex214/reloaded/tree/main/ex15) | [16](https://github.com/Nowex214/reloaded/tree/main/ex16) | [17](https://github.com/Nowex214/reloaded/tree/main/ex17) |
-|--|--|--|--|--|--|--|--|--|
-
-| [18](https://github.com/Nowex214/reloaded/tree/main/ex18) | [19](https://github.com/Nowex214/reloaded/tree/main/ex19) | [20](https://github.com/Nowex214/reloaded/tree/main/ex20) | [21](https://github.com/Nowex214/reloaded/tree/main/ex21) | [22](https://github.com/Nowex214/reloaded/tree/main/ex22) | [23](https://github.com/Nowex214/reloaded/tree/main/ex23) | [24](https://github.com/Nowex214/reloaded/tree/main/ex24) | [25](https://github.com/Nowex214/reloaded/tree/main/ex25) | [26](https://github.com/Nowex214/reloaded/tree/main/ex26) |
-|--|--|--|--|--|--|--|--|--|
-
-| [27](https://github.com/Nowex214/reloaded/tree/main/ex27) |
-|--|
-</td> 
-</tr> 
 </table>
-
-
-
-
-<h2 style="color: #FFFFFF;">Common core</h2>
-<table>
-<tr>
-<th align="left"> &nbsp; Common core projects </th>
-</tr>
-<tr>
-
-<td>
-
-| [Libft](https://github.com/Nowex214/commoncore42/tree/main/libft) | [GNL](https://github.com/Nowex214/commoncore42/tree/main/getnextline) | [B2BR](https://github.com/Nowex214/commoncore42/tree/main/Born2BeRoot)
-|--|--|--|
-
-</td> </tr> </table>
-
-
-<div align="center">
-
-<h2 style="color: #FFFFFF;">Mes talents(git clone le répertoire de Pascale)!</h2>
-
 </div>
 
-<p align="center">
+<h2 style="text-align: center; margin-top: 30px;">📅Common Core !</h2>
+
+<div style="text-align: center;">
+    <table style="margin: auto; border-spacing: 15px;">
+        <tr>
+            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/libft" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Libtf</a></td>
+            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/Born2BeRoot" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">B2BR</a></td>
+            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/minitalk" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Minitalk</a></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/printF"style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">PrintF</a></td>
+            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/so_long" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">So_long</a></td>
+            <td></td>
+        </tr>
+        <tr>
+            <td></td>
+            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/getnextline" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">GNL</a></td>
+            <td></td>
+            <td></td>
+        </tr>
+    </table>
+</div>
+
+<h2 style="text-align: center; margin-top: 30px;">🧘‍♂️ Suitables</h2>
+    <div style="text-align: center;">
+    <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,linux,neovim,html" />
+</a>
+
+<div style="text-align: center;">
+    <h2 style="text-align: center; margin-top: 30px;">📖 My GitHub Stats !</h2>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nowex214&show_icons=true&count_private=true&hide=prs&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nowex214&layout=compact&theme=tokyonight)
+
+<h2 style="text-align: center; margin-top: 30px;">✉️ Contact me</h2>
+
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,linux,neovim" />
+    <img src="https://skillicons.dev/icons?i=discord,linkedin" />
   </a>
-</p>
-
-<div align="center">
-
-<h2 style="color: #FFFFFF;">Contactez-moi(sur l'intra lol)!</h2>
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=discord,gmail" />
-  </a>
-</p>
-<img  src="https://media1.tenor.com/m/ndMC24Gvy4sAAAAd/telephone-call.gif" width="80" height="80" alt="GIF humoristique"/>
-
-<h3 style="color: #FFFFFF;">Discord: nowexssj3</h3>
-<h3 style="color: #FFFFFF;">Mail: eliot.henry@gmail.com</h3>
+<div>
+    <h3 style="color: #FFFFFF;">Discord: nowexssj3</h3>
+</div>
