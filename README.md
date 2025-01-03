@@ -29,19 +29,19 @@
 <div style="text-align: center;">
     <table style="margin: auto; border-spacing: 15px;">
         <tr>
-            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/libft" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Libtf</a></td>
-            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/Born2BeRoot" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">B2BR</a></td>
-            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/minitalk" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Minitalk</a></td>
+            <td><a href="https://github.com/Nowex214/Libft" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Libtf</a></td>
+            <td><a href="https://github.com/Nowex214/Born2BeRoot" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">B2BR</a></td>
+            <td><a href="https://github.com/Nowex214/Minitalk" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Minitalk</a></td>
         </tr>
         <tr>
             <td></td>
-            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/printF"style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">PrintF</a></td>
-            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/so_long" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">So_long</a></td>
+            <td><a href="https://github.com/Nowex214/PrintF"style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">PrintF</a></td>
+            <td><a href="https://github.com/Nowex214/so_long" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">So_long</a></td>
             <td></td>
         </tr>
         <tr>
             <td></td>
-            <td><a href="https://github.com/Nowex214/commoncore42/tree/main/getnextline" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">GNL</a></td>
+            <td><a href="https://github.com/Nowex214/Get-Next-Line" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">GNL</a></td>
             <td></td>
             <td></td>
         </tr>
