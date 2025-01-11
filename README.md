@@ -37,14 +37,11 @@
             <td></td>
             <td><a href="https://github.com/Nowex214/PrintF"style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">PrintF</a></td>
             <td><a href="https://github.com/Nowex214/so_long" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">So_long</a></td>
-            <td></td>
         </tr>
         <tr>
             <td></td>
             <td><a href="https://github.com/Nowex214/Get-Next-Line" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">GNL</a></td>
             <td><a href="https://github.com/Nowex214/push_swap" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Push_swap</a></td>
-            <td></td>
-            <td></td>
         </tr>
     </table>
 </div>
