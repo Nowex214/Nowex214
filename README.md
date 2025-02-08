@@ -32,6 +32,7 @@
             <td><a href="https://github.com/Nowex214/Libft" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Libtf</a></td>
             <td><a href="https://github.com/Nowex214/Born2BeRoot" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">B2BR</a></td>
             <td><a href="https://github.com/Nowex214/Minitalk" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Minitalk</a></td>
+            <td><a href="https://github.com/Nowex214/philosophers" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Philosophers</a></td>
         </tr>
         <tr>
             <td></td>
