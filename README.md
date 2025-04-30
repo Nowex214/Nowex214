@@ -38,7 +38,7 @@
             <td></td>
             <td><a href="https://github.com/Nowex214/PrintF"style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">PrintF</a></td>
             <td><a href="https://github.com/Nowex214/so_long" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">So_long</a></td>
-            <td><a href="htpps://github.com/Nowex214/orvalshell" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Minishell</a></td>
+            <td><a href="https://github.com/Nowex214/orvalshell" style="display: inline-block; padding: 10px 15px; background-color: #315534; color: white; text-decoration: none; border-radius: 5px;">Minishell</a></td>
         </tr>
         <tr>
             <td></td>
